@@ -1,0 +1,6 @@
+metadata:
+  name: basic-basic-test
+
+run:
+  steps:
+    - echo "This is a super basic test, it only tests echo"
